@@ -36,7 +36,7 @@ The Mars rovers use AEGIS, as well as Autonav that allows it to navigate the ter
 It is in the Space Exploration field. 
 
 * What have been the major trends and innovations of this field over the last 5-10 years?<br/>
-Virgin Galactic had a commercial spaceflight where civilians were able to fly to space. SpaceX built spacecrafts that could be reused, the most notable is the Falcon 9. 
+Virgin Galactic had a commercial spaceflight where civilians were able to fly to space. SpaceX built  a spacecraft that could be reused, the most notable is the Falcon 9. 
 
 * What are the other major companies in this field?<br/>
 There are many other companies that are doing amazing in the space exploration field, the most notable ones besides NASA are SpaceX, Blue Origin, Virgin Galactic, and Axiom Space just to name a few. 
@@ -55,7 +55,7 @@ NASA is one of the leading agencies in space exploration.
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)<br/>
-
+I would offer 
 
 * Why do you think that offering this product or service would benefit the company?<br/>
 
@@ -66,7 +66,10 @@ NASA is one of the leading agencies in space exploration.
 * Why are these technologies appropriate for your solution?<br/>
 
 
+## Citations
 
-* Why are these technologies appropriate for your solution?
-
-
+Here's How AI Is Changing NASA's Mars Rover Science. (2024, July 16). NASA. Retrieved August 22, 2024, from https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/heres-how-ai-is-changing-nasas-mars-rover-science/<br/>
+Laboratory, N. J. P. (2020, May 6). Autonomous exploration for gathering increased science.  Tech Briefs. https://www.techbriefs.com/component/content/article/8442-npo-46876<br/>
+Mars Science Laboratory: Curiosity Rover. (2012, August 6). NASA Science. Retrieved August 22, 2024, from https://science.nasa.gov/mission/msl-curiosity/<br/>
+NASA. (n.d.). Mars Science Laboratory: Curiosity rover - NASA science. NASA. https://science.nasa.gov/mission/msl-curiosity/ <br/>
+Patschke, G. (2023, September 7). Key trends shaping the future of space technology. Aerospace Manufacturing and Design. Retrieved August 22, 2024, from https://www.aerospacemanufacturinganddesign.com/article/key-trends-shaping-the-future-of-space-technology/<br/>
