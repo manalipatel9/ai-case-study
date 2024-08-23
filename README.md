@@ -39,32 +39,23 @@ It is in the Space Exploration field.
 Virgin Galactic had a commercial spaceflight where civilians were able to fly to space. SpaceX built  a spacecraft that could be reused, the most notable is the Falcon 9. 
 
 * What are the other major companies in this field?<br/>
-There are many other companies that are doing amazing in the space exploration field, the most notable ones besides NASA are SpaceX, Blue Origin, Virgin Galactic, and Axiom Space just to name a few. 
+There are many other companies that are doing amazing in the space exploration field, the most notable ones besides NASA are SpaceX, Blue Origin, Virgin Galactic, Axiom Space, Indian Space Research Organisation, European Space Agency, and the Roscosmos j just to name a few. 
 
 ## Results
 
 * What has been the business impact of this company so far?<br/>
-
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?<br/>
-
+NASA employs thousands of people alone by employing people through contracts for private companies and co-ops at universities for research. In 2021, NASA employed more than 19,000. Since 1976, NASA has a site called “Spinoff” where they feature technologies that have been transformed into commercial products. It is a great way to see how everything they developed can be used for other fields as well like the health field. 
 
 * How is your company performing relative to competitors in the same field?<br/>
-NASA is one of the leading agencies in space exploration. 
+NASA is still one of the leading agencies in space exploration against both national space agencies and commercial space companies. They are constantly developing cutting-edge technologies that help them with their missions along with helping their partner companies as well. 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)<br/>
-I would offer 
+I would suggest they develop a spacecraft that would allow for in orbit refueling for missions that are far from Earth (i.e. further than the I.S.S). This would allow missions to be extended so we can gather further data. 
 
 * Why do you think that offering this product or service would benefit the company?<br/>
-
-
-* What technologies would this additional product or service utilize?<br/>
-
-
-* Why are these technologies appropriate for your solution?<br/>
-
+It would benefit NASA because this would allow them to gain a better insight on other planets and solar systems, and galaxies. If we could extend the lifespan of the missions then it would allow us to gather more information consecutively without having to spend more of our resources and time to build another mission. 
 
 ## Citations
 
@@ -72,4 +63,6 @@ Here's How AI Is Changing NASA's Mars Rover Science. (2024, July 16). NASA. Retr
 Laboratory, N. J. P. (2020, May 6). Autonomous exploration for gathering increased science.  Tech Briefs. https://www.techbriefs.com/component/content/article/8442-npo-46876<br/>
 Mars Science Laboratory: Curiosity Rover. (2012, August 6). NASA Science. Retrieved August 22, 2024, from https://science.nasa.gov/mission/msl-curiosity/<br/>
 NASA. (n.d.). Mars Science Laboratory: Curiosity rover - NASA science. NASA. https://science.nasa.gov/mission/msl-curiosity/ <br/>
+NASA. (2022). National Aeronautics and Space Administration Economic Impact Report October 2022. (October 2022), 26. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.nasa.gov/wp-content/uploads/2022/10/nasa_fy21_economic_impact_report_brochure.pdf<br/>
+(n.d.). NASA Spinoff: Home. Retrieved August 22, 2024, from https://spinoff.nasa.gov/<br/>
 Patschke, G. (2023, September 7). Key trends shaping the future of space technology. Aerospace Manufacturing and Design. Retrieved August 22, 2024, from https://www.aerospacemanufacturinganddesign.com/article/key-trends-shaping-the-future-of-space-technology/<br/>
